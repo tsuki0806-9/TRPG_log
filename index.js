@@ -1,14 +1,26 @@
 var INDEX = [
 	{
-		system: "某系統",
-		title: "某團務的標題名稱",
-		url: ".template",
+		system: "CoC",
+		title: "咖啡與貓",
+		url: "coffee and cat",
 		imgUrl: "src/img/replay-cover/example.jpg",
 		info: {
-			system: "某個系統",
-			gm: "...",
-			member: "A、B、C、D",
-			startDate: "0000/00/00",
+			system: "CoC",
+			gm: "默月",
+			member: "千行",
+			startDate: "2025/07/08",
+		}
+	},
+		{
+		system: "CoC",
+		title: "咖啡與貓",
+		url: "coffee and cat",
+		imgUrl: "src/img/replay-cover/example.jpg",
+		info: {
+			system: "CoC",
+			gm: "默月",
+			member: "千行",
+			startDate: "2025/07/08",
 		}
 	},
 
